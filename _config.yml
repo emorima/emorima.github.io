@@ -35,6 +35,7 @@ theme: jekyll-theme-clean-blog
 
 # Build settings
 markdown:           kramdown
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
