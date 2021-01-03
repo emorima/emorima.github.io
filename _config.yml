@@ -25,7 +25,7 @@ title: emorima.love
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "emorima.love"
+url: "https://emorima.love"
 twitter_username: emorima
 github_username:  emorima
 
@@ -34,7 +34,22 @@ github_username:  emorima
 theme: jekyll-theme-clean-blog
 
 # Build settings
-markdown:           kramdown
+enable_coderay: true
+gist:
+  noscript: false
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 paginate:           5
 paginate_path:      "/posts/page:num/"
@@ -49,14 +64,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
 #   - node_modules/
-#   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
