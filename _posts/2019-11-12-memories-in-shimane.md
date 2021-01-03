@@ -4,7 +4,7 @@ title: "島根の思い出"
 date: 2019-11-12 19:31 +0900
 permalink: /2019-11-12-memories-in-shimane/
 categories: [blog, travel]
-tags: [shimane]
+tag: [shimane]
 ---
 
 ### 宍道湖の夕日
