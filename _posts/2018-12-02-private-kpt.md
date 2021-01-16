@@ -2,8 +2,7 @@
 layout: post
 title:  "1年の振り返り"
 date:   2018-12-02 00:57:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 急遽飲み会が入って遅くなってしまいましたが、
 

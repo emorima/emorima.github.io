@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls Takasaki 1st"
 date:   2017-06-18 00:01:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 Rails Girls Takasaki 1st の弊社がスポンサーしたので、コーチもしてきた。
 

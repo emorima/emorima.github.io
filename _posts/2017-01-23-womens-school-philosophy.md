@@ -2,8 +2,7 @@
 layout: post
 title:  "私学女子校の教育理念を調べてみた"
 date:   2017-01-23 01:15:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 '女子力'のツイートで、私学の女子校ならいざ知らず～とあって、
 

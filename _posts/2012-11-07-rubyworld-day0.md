@@ -2,8 +2,7 @@
 layout: post
 title:  "RubyWorld Conference 2012 (前夜)"
 date:   2012-11-07 22:30:00 +0900
-categories: [ruby]
-tag: [rubyworld]
+tags: [rubyworld]
 ---
 RubyWorld Conference 2012 が、11/8から松江で開催されるので、
 

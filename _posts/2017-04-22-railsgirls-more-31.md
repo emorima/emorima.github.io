@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls Tokyo, More! (第31回)"
 date:   2017-03-22 23:16:00 +0900
-categories: [blog ruby]
-tag: [railsgirls]
+tags: [diary, railsgirls]
 ---
 今日は、第31回 Rails Girls Tokyo, More! 。
 

@@ -3,8 +3,7 @@ layout: post
 title:  "emori.love公開"
 date:   2019-11-11 22:14:23 +0900
 permalink: /2019-11-11-build-emorima-love/
-categories: [blog ruby]
-tag: [rubyworld]
+tags: [rubyworld]
 ---
 
 RubyWorld Conference 2019のGMOペパボさんのブースで、

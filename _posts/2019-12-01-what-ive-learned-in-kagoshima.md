@@ -2,7 +2,7 @@
 layout: post
 title: 鹿児島で学んだこと
 date: 2019-12-01 11:00 +0900
-categories: [blog, travel]
+tags: [diary, travel]
 ---
 とても大切なことを学んだ
 

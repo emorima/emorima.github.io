@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls Gathering JapanのKeynoteで話しました"
 date:   2020-12-13 22:26:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2020/railsgirlsjapan" target="_blank">Rails Girls Japan Advent Calendar 2020</a>の13日目の記事です。
 

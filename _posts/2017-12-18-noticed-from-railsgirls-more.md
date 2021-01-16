@@ -2,8 +2,7 @@
 layout: post
 title:  "今年最後の Rails Girls Tokyo, More! で気づかせてもらったこと"
 date:   2017-12-18 01:57:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2017/railsgirlsjapan/">Rails Girls Japan アドベントカレンダー</a> の18日目の記事です。
 

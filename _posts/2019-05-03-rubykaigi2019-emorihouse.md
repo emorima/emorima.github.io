@@ -2,8 +2,7 @@
 layout: post
 title:  "RubyKaigi2019に参加して、エモリハウスを企画して、WTMKyushuに参加した"
 date:   2019-05-03 11:18:00 +0900
-categories: [ruby]
-tag: [rubykaigi emorihouse]
+tags: [rubykaigi, emorihouse]
 ---
 2019/04/18～20に福岡国際会議場で開催された&nbsp;<a href="https://rubykaigi.org/2019/">RubyKaigi2019</a>&nbsp;に参加して、翌日に Women Techmakers Kyushuに参加してきました。
 

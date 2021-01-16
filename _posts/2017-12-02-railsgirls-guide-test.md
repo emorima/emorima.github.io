@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls Guides「Test your app with RSpec」を本家に合わせてみる"
 date:   2017-12-02 20:03:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2017/railsgirlsjapan" target="_blank">Rails Girls Japan Advent Calendar 2017 </a>の２日目の記事です。
 

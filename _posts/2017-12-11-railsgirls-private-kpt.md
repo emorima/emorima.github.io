@@ -2,8 +2,7 @@
 layout: post
 title:  "私的 Rails Girls 2017の振り返りと2018にやりたいこと"
 date:   2017-12-11 01:42:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2017/railsgirlsjapan" target="_blank">Rails Girls Japan アドベントカレンダー</a>の10日目の記事です。
 

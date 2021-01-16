@@ -2,8 +2,7 @@
 layout: post
 title:  "ブログを移行した"
 date:   2021-01-03 20:35:00 +0900
-categories: [blog]
-tag: []
+tags: [diary, linux]
 ---
 長らく [Blogger](https://emorima.blogspot.com/) でブログを書いていたけど、
 

@@ -2,8 +2,7 @@
 layout: post
 title:  "2011年を振り返って"
 date:   2011-12-31 21:44:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 ちょっと今年は色々あったので、振り返りをしてみようかな。
 

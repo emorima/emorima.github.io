@@ -2,8 +2,7 @@
 layout: post
 title:  "大江戸Ruby会議01  (Ninja Talkしてきました)"
 date:   2011-04-10 23:56:00 +0900
-categories: [ruby]
-tag: [rubykaigi]
+tags: [ruby, rubykaigi]
 ---
 4/10(日) 深川江戸資料館レクホールで行われた大江戸Ruby会議01 で、
 

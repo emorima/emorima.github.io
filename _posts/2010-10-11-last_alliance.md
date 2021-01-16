@@ -2,8 +2,7 @@
 layout: post
 title:  "LAST ALLIANCE"
 date:   2010-10-11 17:33:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 
 Twitterで 別府史之選手が、<br />

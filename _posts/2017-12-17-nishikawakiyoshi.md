@@ -2,8 +2,7 @@
 layout: post
 title:  "コツコツの積み重ねの結果"
 date:   2017-12-17 23:30:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2017/kcscarrot" target="_blank">ケーシーエスキャロット Advent Calendar 2017</a> 17日目の記事になります。
 

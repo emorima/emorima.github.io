@@ -2,8 +2,7 @@
 layout: post
 title:  "第34回 Rails Girls Tokyo, More!"
 date:   2017-07-31 01:45:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 第34回目のRails Girls Tokyo, More! は、みんなのウェディングさんが会場。
 

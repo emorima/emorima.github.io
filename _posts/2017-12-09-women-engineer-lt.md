@@ -2,8 +2,7 @@
 layout: post
 title:  "女子エンジニア忘年会でLTしてきた話"
 date:   2017-12-09 00:34:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2017/kcscarrot" target="_blank">株式会社ケーシーエスキャロット アドベントカレンダー</a>の８日目の記事です。
 

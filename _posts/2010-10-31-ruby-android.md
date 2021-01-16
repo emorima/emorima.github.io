@@ -2,8 +2,7 @@
 layout: post
 title:  "RubyでAndroid　(準備編：その１）"
 date:   2010-10-31 20:57:00 +0900
-categories: [ruby android]
-tag: []
+tags: [ruby]
 ---
 RubyでAndroidアプリを開発したいと思ったので、
 

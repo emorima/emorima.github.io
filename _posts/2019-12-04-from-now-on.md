@@ -2,7 +2,7 @@
 layout: post
 title: From now on
 date: 2019-12-04 11:42 +0900
-categories: [blog]
+tags: [diary]
 ---
 ruby-jp の
 

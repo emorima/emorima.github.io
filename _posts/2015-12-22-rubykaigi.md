@@ -2,8 +2,7 @@
 layout: post
 title:  "RubyKaigi 2015 に登壇して思うこと"
 date:   2015-12-22 20:17:00 +0900
-categories: [ruby]
-tag: [rubykaigi]
+tags: [diary]
 ---
 この記事は[Geek Women Advent Calendar 2015](http://www.adventar.org/calendars/875) の14日目のエントリになります。
 
