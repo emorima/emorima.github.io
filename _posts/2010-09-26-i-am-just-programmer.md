@@ -2,8 +2,7 @@
 layout: post
 title:  "I'm just a programmer."
 date:   2010-09-26 14:09:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 <blockquote>「私は、ただの１プログラマです。」<br />
 

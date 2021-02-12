@@ -2,8 +2,7 @@
 layout: post
 title:  "鹿児島Ruby会議01で話してきた"
 date:   2019-12-01 07:30:00 +0900
-categories: [ruby]
-tag: [kagoshima rubykaigi]
+tags: [ruby]
 ---
 このエントリは、<a href="https://qiita.com/advent-calendar/2019/kcscarrot">ケーシーエスキャロット Advent Calendar 2019</a>の１日目の記事です。
 

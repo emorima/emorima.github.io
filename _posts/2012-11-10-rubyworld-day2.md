@@ -2,8 +2,7 @@
 layout: post
 title:  "RubyWorld Conference 2012 (2日目)"
 date:   2012-11-10 00:55:00 +0900
-categories: [ruby]
-tag: [rubyworld]
+tags: [rubyworld]
 ---
 Dave Thomas の基調講演。
 

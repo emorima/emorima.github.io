@@ -2,8 +2,7 @@
 layout: post
 title:  "自作キーボードデビューの話"
 date:   2018-12-19 01:20:00 +0900
-categories: [blog keyboard]
-tag: []
+tags: [diary]
 ---
 これは、<a href="https://qiita.com/advent-calendar/2018/kcscarrot">ケーシーエスキャロットAdventCalendar 2018</a>&nbsp;18日目の記事になります。
 

@@ -2,8 +2,7 @@
 layout: post
 title:  "越えて見えた素晴らしい世界"
 date:   2014-12-06 06:26:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 このエントリは、[DevLOVE Advent Calendar 2014「越境」](http://devlove.doorkeeper.jp/events/14580)の29日目(12/6)の記事です。
 

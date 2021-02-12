@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls Japan 2019年まとめと2020年の予告"
 date:   2019-12-25 01:54:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2019/railsgirlsjapan">Rails Girls Japan Advent Calendar 2019</a>&nbsp;25日目、最終日の記事です。
 

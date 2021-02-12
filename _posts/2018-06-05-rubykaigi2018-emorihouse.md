@@ -2,8 +2,7 @@
 layout: post
 title:  ""
 date:   2018-06-05 18:42:00 +0900
-categories: [ruby]
-tag: [rubykaigi emorihouse]
+tags: [rubykaigi, emorihouse]
 ---
 <a href="https://twitter.com/shugomaeda/status/1003551501128646657">日記を書くまでが RubyKaigi</a> ということで、
 

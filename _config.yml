@@ -26,6 +26,7 @@ title: emorima.love
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://emorima.love"
+github: [metadata]
 twitter_username: emorima
 github_username:  emorima
 

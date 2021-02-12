@@ -2,8 +2,7 @@
 layout: post
 title:  "第33回 Rails Girls Tokyo, More!"
 date:   2017-06-19 17:51:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 6/18(日) は、Rails Girls Tokyo, More! を自社で開催。
 

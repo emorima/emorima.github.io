@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls 個人的１年のまとめ"
 date:   2018-12-01 06:00:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2018/railsgirlsjapan">Rails Girls Japan 2018</a> １日目の記事になります。
 

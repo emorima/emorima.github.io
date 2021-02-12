@@ -2,8 +2,7 @@
 layout: post
 title:  "ActiveRecordを使って複数DBにアクセスする(準備編)"
 date:   2017-12-01 06:00:00 +0900
-categories: [ruby]
-tag: [activerecord]
+tags: [ruby]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2017/kcscarrot" target="_blank">株式会社ケーシーエスキャロット アドベントカレンダー</a>の１日目の記事です。
 

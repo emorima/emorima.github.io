@@ -2,8 +2,7 @@
 layout: post
 title:  "島根満喫旅行 2012(2日目)"
 date:   2012-11-12 00:31:00 +0900
-categories: [blog]
-tag: [travel]
+tags: [diary, travel]
 ---
 あいにくの雨。
 

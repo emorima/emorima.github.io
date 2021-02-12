@@ -2,8 +2,7 @@
 layout: post
 title:  "Steep by Steep(Day2)"
 date:   2020-12-23 23:00:00 +0900
-categories: [ruby]
-tag: []
+tags: [ruby]
 ---
 この記事は、<a href="https://qiita.com/advent-calendar/2020/kcscarrot">ケーシーエスキャロット Advent Calendar 2020</a>&nbsp;23日目の記事です。
 

@@ -2,8 +2,7 @@
 layout: post
 title:  "Rails Girls はじまりはいつも小さな一歩"
 date:   2016-12-22 00:48:00 +0900
-categories: [ruby]
-tag: [railsgirls]
+tags: [railsgirls]
 ---
 このエントリは、<a href="http://qiita.com/advent-calendar/2016/railsgirlsjapan" target="_blank">Rails Girls Japan Advent Calendar 2016</a>の21日目の記事です。
 

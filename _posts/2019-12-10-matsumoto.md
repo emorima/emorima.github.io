@@ -2,7 +2,7 @@
 layout: post
 title: まつもと
 date: 2019-12-10 10:05 +0900
-categories: [blog]
+tags: [diary]
 ---
 美味しかった
 

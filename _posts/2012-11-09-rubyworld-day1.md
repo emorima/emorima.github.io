@@ -2,8 +2,7 @@
 layout: post
 title:  "RubyWorld Conference 2012 (1日目)"
 date:   2012-11-09 00:30:00 +0900
-categories: [ruby]
-tag: [rubyworld]
+tags: [rubyworld]
 ---
 早く目が覚めて、始まるまでの時間もあったので、
 

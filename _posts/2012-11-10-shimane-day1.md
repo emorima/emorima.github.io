@@ -2,8 +2,7 @@
 layout: post
 title:  "島根満喫旅行 2012(1日目)"
 date:   2012-11-10 23:36:00 +0900
-categories: [blog]
-tag: [travel]
+tags: [diary, travel]
 ---
 RubyWorld Conference 2012も終わり、島根満喫旅行へ。
 

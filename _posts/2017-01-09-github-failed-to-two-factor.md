@@ -2,8 +2,7 @@
 layout: post
 title:  "GitHubの2段階認証でログインできなくなった"
 date:   2017-01-09 12:03:00 +0900
-categories: [blog]
-tag: []
+tags: [diary]
 ---
 年末、携帯の機種変更をして、
 

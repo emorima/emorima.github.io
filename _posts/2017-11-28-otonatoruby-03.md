@@ -2,8 +2,7 @@
 layout: post
 title:  "オトナとRuby (3回目) に参加してきました"
 date:   2017-11-28 17:35:00 +0900
-categories: [ruby]
-tag: [otonatoruby]
+tags: [otonatoruby]
 ---
 ### 1日目
 

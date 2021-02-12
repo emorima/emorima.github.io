@@ -2,8 +2,7 @@
 layout: post
 title:  "Rubyビジネスセミナーに参加してきた"
 date:   2012-10-04 01:21:00 +0900
-categories: [blog ruby]
-tag: []
+tags: [diary]
 ---
 Rubyアソシエーションの&nbsp;<a href="http://www.ruby.or.jp/ja/news/20120831.html" target="_blank">Rubyビジネスセミナー</a>&nbsp;に参加してきた。
 
