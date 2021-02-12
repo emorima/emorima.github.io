@@ -267,9 +267,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-paginate
   jekyll-theme-clean-blog
-  kramdown
   rake
-  rouge
 
 BUNDLED WITH
    2.2.1
