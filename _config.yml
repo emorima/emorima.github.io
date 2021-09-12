@@ -29,6 +29,7 @@ url: "https://emorima.love"
 github: [metadata]
 twitter_username: emorima
 github_username:  emorima
+timezone: Asia/Tokyo
 
 # Build settings
 # theme: minima

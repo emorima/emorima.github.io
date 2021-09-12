@@ -10,7 +10,7 @@ tags: [ruby]
 昨日は、naokishi の&nbsp;<a href="https://qiita.com/naokishi/items/f9d2f53bb103241b2817" target="_blank">aws cli と jq コマンド</a>&nbsp;でした。  
 今、AWS使ってるんですねー。もうWindowsアプリは開発していないのかな…？  
 
-さて、<a href="{{relative_url}}/ruby/2020/12/18/steep-by-steep">前回</a>はエラーが増えたところで終わりました。
+さて、<a href="{{relative_url}}/2020/12/18/steep-by-steep">前回</a>はエラーが増えたところで終わりました。
 
 一度、<a href="https://github.com/soutaro/steep" target="_blank">リポジトリ</a>&nbsp;にあるサンプルコードを実行してみようか…ということで、コピペで実行してみると…
 
